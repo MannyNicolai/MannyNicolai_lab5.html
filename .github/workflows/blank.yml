@@ -22,5 +22,5 @@ jobs:
           local_path: './*'
           PORT: 22
           METHOD: sftp
-          remote_path: 'site/IS436/MannyNicolai_lab'
+          remote_path: 'site/IS436/MannyNicolai5_lab5.html/lab5_MannyNicolai.html'
           sftp_only: true
